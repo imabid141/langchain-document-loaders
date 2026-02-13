@@ -1,0 +1,25 @@
+# ==============================
+# LangChain Core & Community
+# ==============================
+langchain
+langchain-core
+langchain-community
+
+# ==============================
+# Hugging Face Integration
+# ==============================
+langchain-huggingface
+huggingface-hub
+transformers
+
+# ==============================
+# Document Processing
+# ==============================
+pypdf
+beautifulsoup4
+requests
+
+# ==============================
+# Environment Management
+# ==============================
+python-dotenv
